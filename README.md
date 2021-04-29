@@ -75,9 +75,11 @@ Following list contains some basic & advance ML based projects that I have creat
 
 4. [Cat vs Dog Classifier](https://github.com/naman14310/Cat_vs_Dog_Classifier)
 
+5. [Credit card Fraud Detection using Isolation Forest](https://github.com/naman14310/Machine_Learning/tree/main/Anomaly%20detection)
+
 ### Advance Projects
 
-1. [Chest X-Ray Image Classification](https://github.com/naman14310/XRay_Image_Classification_using_CNN)
+1. [Chest X-Ray Image Classification for Pneumonia diagnosis](https://github.com/naman14310/XRay_Image_Classification_using_CNN)
 
 2. [RBC Image Classification using Deep CNN](https://github.com/naman14310/RBC_Image_Classification_using_DeepCNN) 
 
@@ -86,6 +88,7 @@ Following list contains some basic & advance ML based projects that I have creat
 4. Automatic Fill in the blank type Question Solver (will be uploaded soon)
 
 5. Filling missing parts of Image using Image Inpainting through GAN and Context Encoders (will be uploaded soon)
+
 
 ## My Profile Links
 
