@@ -29,28 +29,63 @@ PS : use below index to jump on any particular topic.
 
 ### Deep Learning Algorithms & Neural Networks
 
-1. [Avl Tree](https://github.com/naman14310/DataStructures_Algorithms/tree/main/Trees/AVL%20Trees)
+1. [Artificial Neural Networks (ANN)](https://github.com/naman14310/Machine_Learning/tree/main/Artificial%20Neural%20Networks)
 
-2. [Augmented AVL Trees](https://github.com/naman14310/DataStructures_Algorithms/blob/main/Trees/AVL%20Trees/Augmented_AVL.cpp)
+2. [Convolutional Neural Networks](https://github.com/naman14310/Machine_Learning/tree/main/Convolution%20Neural%20Network%20(CNN))
 
-3. [Ordered Map](https://github.com/naman14310/DataStructures_Algorithms/blob/main/Map/OrderedMap.cpp)
+3. [Image classification](https://github.com/naman14310/Machine_Learning/tree/main/Image%20classification)
 
-4. [Unordered Map](https://github.com/naman14310/DataStructures_Algorithms/blob/main/Map/UnorderedMap.cpp)
+4. [Autoencoders](https://github.com/naman14310/Machine_Learning/tree/main/Autoencoders)
 
-5. [Heaps](https://github.com/naman14310/DataStructures_Algorithms/tree/main/Heap)
+5. [Edge Detection using CNN from scratch](https://github.com/naman14310/Edge_Detector_using_CNN_from_Scratch)
 
-6. [Tries](https://github.com/naman14310/DataStructures_Algorithms/tree/main/Trie)
+6. [Natural Language Preprocessing](https://github.com/naman14310/NLP_Natural_Language_Processing)
 
-7. [Suffix Arrays](https://github.com/naman14310/DataStructures_Algorithms/tree/main/Suffix%20Arrays)
+7. [Sentimental Analysis](https://github.com/naman14310/Sentimental_Analysis_on_MovieReviews/blob/master/Scratch/Sentimental%20Analysis%20on%20movie%20reviews.ipynb)
 
-8. [External Sorting](https://github.com/naman14310/DataStructures_Algorithms/tree/main/External%20Sorting)
+8. [Siamese Network](https://github.com/naman14310/Machine_Learning/tree/main/Siamese%20Network)
 
-9. [Dynamic Programming](https://github.com/naman14310/DataStructures_Algorithms/tree/main/Dynamic%20Programming)
 
-10. [Backtracking](https://github.com/naman14310/DataStructures_Algorithms/tree/main/Backtracking)
+### Data Science Resources
 
-11. [B+ Tree](https://github.com/naman14310/DataStructures_Algorithms/tree/main/B%2B%20Tree)
+1. [Basics of Numpy](https://github.com/naman14310/DataScience_Libraries/tree/main/Basics%20of%20Numpy)
 
+2. [Basics of Pandas](https://github.com/naman14310/DataScience_Libraries/tree/main/Basics%20of%20Pandas)
+
+3. [Basics of Seaborn](https://github.com/naman14310/DataScience_Libraries/tree/main/Basics%20of%20Seaborn)
+
+4. [Pandas vs SQL](https://github.com/naman14310/DataScience_Libraries/tree/main/Pandas%20vs%20SQL)
+
+5. [Data Analysis on WHO's suicidal dataset](https://github.com/naman14310/Data_Analysis_on_Suicidal_Rates)
+
+6. [Web Scrapping using BeautifulSoup](https://github.com/naman14310/Web_Scrapping)  
+
+
+## Projects
+
+Following list contains some basic & advance ML based projects that I have created during my learning phase.
+
+### Beginners
+
+1. [Handwritten Digits Recognition (MNIST Dataset)](https://github.com/naman14310/Handwritten_Digits_Recognizer)
+
+2. [OCR using Tesseract api](https://github.com/naman14310/OCR_Tesseract)
+
+3. [Frontal face detection using haarcascade.xml](https://github.com/naman14310/Frontal_Face_Detection)
+
+4. [Cat vs Dog Classifier](https://github.com/naman14310/Cat_vs_Dog_Classifier)
+
+### Advance Projects
+
+1. [Chest X-Ray Image Classification](https://github.com/naman14310/XRay_Image_Classification_using_CNN)
+
+2. [RBC Image Classification using Deep CNN](https://github.com/naman14310/RBC_Image_Classification_using_DeepCNN) 
+
+3. [Movie Reviews Sentiment Analyzer using ANN implemented from scratch](https://github.com/naman14310/Sentimental_Analysis_on_MovieReviews/tree/master/Scratch)
+
+4. Automatic Fill in the blank type Question Solver (will be uploaded soon)
+
+5. Filling missing parts of Image using Image Inpainting through GAN and Context Encoders (will be uploaded soon)
 
 ## My Profile Links
 
