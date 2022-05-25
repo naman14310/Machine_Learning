@@ -85,7 +85,9 @@ Following list contains some basic & advance ML based projects that I have creat
 
 3. [Movie Reviews Sentiment Analyzer using ANN implemented from scratch](https://github.com/naman14310/Sentimental_Analysis_on_MovieReviews/tree/master/Scratch)
 
-4. Filling missing parts of Image using Image Inpainting through GAN and Context Encoders (will be uploaded soon)
+4. [English to French Translation](https://github.com/naman14310/English_to_French_Translation)
+
+5. Filling missing parts of Image using Image Inpainting through GAN and Context Encoders (will be uploaded soon)
 
 
 ## My Profile Links
